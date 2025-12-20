@@ -8,7 +8,7 @@
 .buttons {
     display: block;
 }
-.button1, .button2, .button3, .button4, .button5, .button6, .button7, .button8, .button9, .button10 {
+.button1, .button2, .button3, .button4, .button5, .button6, .button7, .button8, .button9 {
     border: solid;
     border-color: #0071E3;
     border-radius: 50px;
@@ -44,9 +44,6 @@
     background-color: #0071E3;
 }
 .button9:hover {
-    background-color: #0071E3;
-}
-.button10:hover {
     background-color: #0071E3;
 }
 h1, h2, h3, h4, h5, h6, p, a, footer {
